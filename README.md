@@ -6,4 +6,4 @@ Autores:
   * [David Gabriel Cromianski de Almeida](https://github.com/ydavidrkz2)
   * [Carlos Eduardo Thomas](https://github.com/Thomas164-cadu)
 
-Você pode testar este código online clicando [aqui](https://replit.com/@DavidGabrielGab/trabalho#main.py)
+Você pode testar este código online clicando [AQUI](https://replit.com/@DavidGabrielGab/trabalho#main.py)
