@@ -19,3 +19,46 @@
 #18. Mostrar dados
 #19. Sair
 #20. FIM
+
+--------------------------
+#Classes:
+ - User(): 3
+ - Produto(): 12
+
+#Variáveis:
+ - admin: 22
+ - adm: 24
+
+#Arrays:
+ - users_data[]: 29
+ - produtos[]: 30
+ - invalid_cpf[]: 52
+
+#Funções de Validação
+ - check_user(): 68
+ - check_admin(): 87
+ - login(): 98
+ - check_permission(): 106
+ - check_cpf(): 111
+
+#Funções de Ação:
+ - update_usr(): 143
+ - register(): 154
+ - shop(): 193
+ - clear_t(): 223
+ - product_remove(): 226
+ - client_remove(): 237
+ - client_edit(): 269
+ - pay(): 362
+ - mult_cpf(): 384
+
+#Funções de Consulta:
+ - menu_admin(): 394
+ - menu_client(): 447
+ - shelf(): 484
+ - cart(): 490
+ - client_consult(): 508
+ - self_data(): 537
+
+#Corpo do código
+ - Inicio: 554
