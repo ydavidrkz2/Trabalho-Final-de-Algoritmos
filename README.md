@@ -1,4 +1,9 @@
 # Trabalho-Final-de-Algoritmos
 Trabalho de conclusão da disciplina de algoritmos - Semestre 2021.1
-Autores: David Gabriel Cromianski de Almeida (ydavidrkz2) e Carlos Eduardo Thomas (Thomas164-cadu)
-Você pode testar este código online acessando: https://replit.com/@DavidGabrielGab/trabalho#main.py
+
+Autores: 
+
+  * [David Gabriel Cromianski de Almeida](https://github.com/ydavidrkz2)
+  * [Carlos Eduardo Thomas](https://github.com/Thomas164-cadu)
+
+Você pode testar este código online clicando [aqui](https://replit.com/@DavidGabrielGab/trabalho#main.py)
