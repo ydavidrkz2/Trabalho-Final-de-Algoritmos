@@ -1,0 +1,21 @@
+    ROTEIRO     
+#01. Teste ERRO login
+#02. Teste ERRO senha (3x)
+#03. Login ADMIN
+#04. Adicionar 3 clientes
+#05. Remover 1 cliente
+#06. Editar 1 cliente
+#07. Consultar 2 clientes
+#08. Mostrar produtos
+#09. Fazer logout
+#10. Login CLIENTE
+#11. Dados cliente
+#12. Mostrar produtos
+#13. Comprar como Cliente (3 produtos)
+#14. Mostrar Carrinho
+#15. Remover 1 produto do carrinho
+#16. Pagar a conta
+#17. Mostrar carrinho
+#18. Mostrar dados
+#19. Sair
+#20. FIM
